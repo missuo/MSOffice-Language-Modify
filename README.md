@@ -11,6 +11,12 @@ Microsoft Office on macOS does not provide the option to modify the language, so
 - Support for viewing current language
 
 ## Usage
+#### Not China Mainland
+~~~shell
+bash <(curl -Ls https://git.io/JDzTh)
+~~~
+
+#### China Mainland
 ~~~shell
 bash <(curl -Ls https://cdn.jsdelivr.net/gh/missuo/MSOffice-Language-Modify/msoffice.sh)
 ~~~
